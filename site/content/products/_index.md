@@ -2,27 +2,17 @@
 title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: what I do
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Basically I do nothing, beside to make my life little meaningful I do some useless but cool stuff , this site is itself a example for it  
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        If I go to my qualifications you will get nothing , but still I have basic knowledge in most of accept of life sciences example I  can make a perfect coffee with equal amount of sugar and milk and thats it 
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        well this is just my dummy site to practice and enhance my skill in web development and this is the reason why I a writing this nuicence stuff from now on ward I gonna write as dumb as I can.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
